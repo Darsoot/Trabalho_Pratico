@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733338486 source:c:\users\pichau\desktop\trabalho pratico\pizzaria\main.c
+	<stdio.h>
+	"pizza.h"
+	"ingrediente.h"
+
+1733338063 c:\users\pichau\desktop\trabalho pratico\pizzaria\pizza.h
+	"ingrediente.h"
+
+1733338091 c:\users\pichau\desktop\trabalho pratico\pizzaria\ingrediente.h
+
